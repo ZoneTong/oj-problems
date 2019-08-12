@@ -1,1 +1,4 @@
 oj-problems
+*.tmp
+InterviewQuestions/atoi/atoi
+InterviewQuestions/deque/deque
